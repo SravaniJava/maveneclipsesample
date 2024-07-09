@@ -7,6 +7,7 @@ public class Testchild1branch {
      System.out.print("testing of maven child");
      System.out.println("this is for testchild1branch");
      System.out.print("HI This is my child branch 2nd attempt");
+     System.out.println("this is for raising merge conflits");
 	}
 
 }
